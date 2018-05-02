@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/tnntyuu.unity
+  isLoaded: 1
+  isActive: 1
